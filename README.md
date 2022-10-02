@@ -12,4 +12,4 @@ success rate), main reasons behind it.
 for example, if the error rate is 10% and 50% of the error rate comes from not showing
 up in 3 hours, so recommend working on service time.
 
-- Provide recommendations to the ops team to solve the problem that you picked in step
+- Provide recommendations to the ops team 
